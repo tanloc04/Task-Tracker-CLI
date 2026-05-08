@@ -32,7 +32,7 @@ This project is a solution to the [Task Tracker CLI project](https://roadmap.sh/
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/task-tracker-cli.git](https://github.com/YourUsername/task-tracker-cli.git)
+   git clone [https://github.com/tanloc04/task-tracker-cli.git](https://github.com/tanloc04/task-tracker-cli.git)
    ```
 2. Navigate to the project directory:
    ```bash
